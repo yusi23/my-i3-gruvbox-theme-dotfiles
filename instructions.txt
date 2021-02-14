@@ -1,4 +1,4 @@
-Directory structure is masked inside this folder:
+Directory structure is mostly masked, make sure to prefix . on the folders that need them (readme.md)
 
 for example /etc would be /etc on real hardware (root folder)
 
