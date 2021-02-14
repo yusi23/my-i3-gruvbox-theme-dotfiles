@@ -18,7 +18,10 @@ From AUR: gruvbox-material-icon-theme
 From AUR: gruvbox-material-gtk-theme-git
 
 Breeze snow cursor enable:
-visit arch wiki cursors
+visit arch wiki cursors: https://wiki.archlinux.org/index.php/Cursor_themes
+Change cursor theme in /usr/share/icons/default/index.theme to xcursor-breeze-snow if you want the white breeze cursor like I do.
+Use lxappearance to change the gtk theme to the gruvbox one, and change the icon theme to the gruvbox one, both are mentioned above.
+Use qt5ct to change qt5 theme, (haven't found a gruvbox theme for qt yet, maybe will install kvantum and find a gruvbox theme for that.)
 
 
 
