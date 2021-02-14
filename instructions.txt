@@ -3,3 +3,6 @@ Directory structure is mostly masked, make sure to prefix . on the folders that 
 for example /etc would be /etc on real hardware (root folder)
 
 or .i3 would be in the home folder, same with .config
+
+Also make sure to set the $TERMINAL variable to alacritty, as an environment variable (if you want)
+See: https://wiki.archlinux.org/index.php/Environment_variables for help on environment variables
