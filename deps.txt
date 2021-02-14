@@ -1,0 +1,26 @@
+Required:
+
+zsh
+oh-my-zsh
+alacritty
+paru : https://github.com/morganamilo/paru
+ripgrep : https://github.com/BurntSushi/ripgrep
+exa : https://github.com/ogham/exa
+fd : https://github.com/sharkdp/fd
+bat : https://github.com/sharkdp/bat
+
+Optional: 
+procs : https://github.com/dalance/procs
+tokei : https://github.com/XAMPPRocky/tokei
+
+For Gruvbox Theme:
+From AUR: gruvbox-material-icon-theme
+From AUR: gruvbox-material-gtk-theme-git
+
+Breeze snow cursor enable:
+visit arch wiki cursors
+
+
+
+
+check i3 config for more applications

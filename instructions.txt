@@ -1,0 +1,5 @@
+Directory structure is masked inside this folder:
+
+for example /etc would be /etc on real hardware (root folder)
+
+or .i3 would be in the home folder, same with .config
