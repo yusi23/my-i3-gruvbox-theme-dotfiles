@@ -5,6 +5,8 @@ So they look like:
 .i3
 .config
 
+Folders like /etc/i3status.conf are self-explanatory about where they should reside on the system, just copy them to your system, for example copy i3status.conf to /etc like how it is here.
+
 Couldn't upload my oh-my-zsh config since it is more than 100 files, but all it is, is just this gruvbox theme (https://github.com/sbugzu/gruvbox-zsh)
 Make sure to install oh-my-zsh and if you want, change the theme to the one mentioned above ^.
 
