@@ -27,6 +27,12 @@ Make sure to read the .zshrc for a 'guide' on the oh-my-zsh plugins to install:
 https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95 (zsh-autosuggestions and zsh-syntax-highlighting)
 Make sure sure the required deps are installed and also install the zsh-exa-aliases plugin for better ls.
 
+Also, for random art when launching the terminal (read .zshrc) install dt's colour scripts:
+https://gitlab.com/dwt1/shell-color-scripts
+paru (or yay:
+paru -S shell-color-scripts
+yay -S shell-color-scripts
+
 
 
 
