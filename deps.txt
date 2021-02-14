@@ -29,7 +29,7 @@ Make sure sure the required deps are installed and also install the zsh-exa-alia
 
 Also, for random art when launching the terminal (read .zshrc) install dt's colour scripts:
 https://gitlab.com/dwt1/shell-color-scripts
-paru (or yay:
+paru (or yay):
 paru -S shell-color-scripts
 yay -S shell-color-scripts
 
